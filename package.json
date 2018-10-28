@@ -1,0 +1,22 @@
+{
+  "name": "node-rest-shop",
+  "version": "1.0.0",
+  "description": "My first rest api application",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "zulkar Nayin",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mongoose": "^5.3.7",
+    "morgan": "^1.9.1",
+    "nodemon": "^1.18.5"
+  },
+  "devDependencies": {
+    "ws": "3.3.2"
+  }
+}
